@@ -131,7 +131,7 @@ svg{ display: block; }
 .hero{
   position: relative;
   background:
-    linear-gradient(180deg, rgba(255,253,251,0.6) 0%, rgba(255,227,224,0.5) 100%),
+    linear-gradient(180deg, rgba(255,253,251,0.8) 0%, rgba(255,227,224,0.6) 100%),
     url("Imagenes/Hero.jpg") center/cover no-repeat;
   padding-top: clamp(72px, 12vw, 140px);
   padding-bottom: clamp(96px, 14vw, 160px);
